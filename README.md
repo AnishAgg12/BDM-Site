@@ -1,2 +1,2 @@
 # BDM-Site
-This will be my first website
+This will be Dynamic website
